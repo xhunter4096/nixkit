@@ -1,4 +1,4 @@
-# NixKit
+# Nix Kit
 <h4>
 	Small tools for daily work.
 </h4>
